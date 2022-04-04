@@ -32,15 +32,14 @@ h5 {
     border: 2px transparent;
     padding: 20px;
     background: white;
-   
 }
-
 
 nav ul {
     display: inline-block;
     list-style: none;
     margin-left: -2em;
     margin-right: 2em;
+    padding-inline-start: 0;
 }
 
 nav li {
@@ -53,6 +52,8 @@ img {
     width: 100%;
     height: 100%;
 }
+
+#
 
 
 
