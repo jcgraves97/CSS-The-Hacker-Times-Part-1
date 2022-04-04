@@ -40,6 +40,8 @@ nav ul {
     margin-left: -2em;
     margin-right: 2em;
     padding-inline-start: 0;
+   
+}
 }
 
 nav li {
@@ -53,7 +55,9 @@ img {
     height: 100%;
 }
 
-#
+a {
+    text-decoration: none;
+}
 
 
 
